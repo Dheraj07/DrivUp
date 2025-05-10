@@ -216,7 +216,7 @@ function Sidebar({ userRole, onNavigate }) {
                 ></path>
               </svg>
             </div>
-            <span className="ml-3 text-xl font-bold text-white">RideShare</span>
+            <span className="ml-3 text-xl font-bold text-white">DrivUp</span>
           </div>
         </div>
 
