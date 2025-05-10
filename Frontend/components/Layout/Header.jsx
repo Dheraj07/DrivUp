@@ -22,7 +22,7 @@ function Header({ user, onLogout }) {
                 ></path>
               </svg>
             </div>
-            <h1 className="ml-2 text-2xl font-bold text-indigo-600">RideShare</h1>
+            <h1 className="ml-2 text-2xl font-bold text-indigo-600">DrivUp</h1>
           </div>
         </div>
 

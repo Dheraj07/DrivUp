@@ -56,7 +56,7 @@ function Login({ onLogin, setCurrentPage }) {
             </svg>
           </div>
         </div>
-        <h1 className="mt-2 text-4xl font-bold text-indigo-600">RideShare</h1>
+        <h1 className="mt-2 text-4xl font-bold text-indigo-600">DrivUp</h1>
         <h2 className="mt-6 text-2xl font-bold text-gray-900">Sign in to your account</h2>
       </div>
 
